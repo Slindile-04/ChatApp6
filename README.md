@@ -7,4 +7,8 @@ ChatApp6 is a messaging application developed to facilitate seamless communicati
 - **Message tracking** with unique IDs and hashing for integrity.
 - **Intuitive GUI** to improve user interaction and experience.
 
+### Dependencies
+To use ChatApp6, ensure you have the required JSON library. You will need to download and add the JSON JAR file manually if it's not managed by a dependency tool.
+
+
 Developed by **Silindile Mnisi (ST10469868)** as part of a software development journey.
